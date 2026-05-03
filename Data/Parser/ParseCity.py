@@ -1,7 +1,7 @@
 from pathlib import Path
 
-unparsed_file = Path(r"..\DataSets\LACountyCityUnParsed.txt")
-parsed_file = Path(r"..\DataSets\LACountyCityParsed.txt")
+unparsed_file = Path(r"..\DataSets\LACCityUnParsed.txt")
+parsed_file = Path(r"..\DataSets\LACCityParsed.txt")
 
 content = ""
 try:

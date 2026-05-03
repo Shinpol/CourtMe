@@ -1,0 +1,1674 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><script src="/d-Dunsmely-The-fresse-And-of-tis-it-inder-Was-I-" async></script>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Search Results</title>
+	<link href="/styles/css?v=1RShtssm_5BaHqpH3qgkwmXUNUN2KOTYso6AqodtqMk1" rel="stylesheet"/>
+
+	<link rel="stylesheet" type="text/css" href="/Content/custom/lac.css?123" />
+	<link rel="icon" href="/Images/lacounty_logo.png">
+	
+    <link href="/styles/maps?v=ze06w40Yupi-qdDYTTOpFs_K2PjoaPQtKftnPg0HTS01" rel="stylesheet"/>
+
+
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-77643364-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+</head>
+
+<body>
+	<div class="navbar navbar-inverse banner">
+		<div class="container" style="position:relative;">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle btn-nav btn btn-primary" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+
+				<div class="navbar-left">
+					<a href="/">
+						<img src="/Images/lacountyheader_logo.png" class="lacounty_logo img-responsive visible-xs-inline-block visible-sm-block visible-md-inline-block visible-lg-inline-block" alt="">
+						<div class="visible-xs-inline-block visible-sm-block visible-md-inline-block visible-lg-inline-block">
+							<h1 id="headerText" class="visible-xs-block visible-sm-inline-block visible-md-block visible-lg-block">Services Locator</h1>
+							<h2 id="headerSubText" class="visible-xs-block visible-sm-inline-block visible-md-block visible-lg-block">lacounty.gov</h2>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="navbar-collapse navbar-right collapse in" aria-expanded="true">
+
+
+<form id="searchForm" class="form-inline" action="/lac/Search" method="get" onsubmit="if ($('.autocomplete-what').is(':visible') || $('.autocomplete-where').is(':visible')) { return true; }">
+
+    <div class="form-group col-sm-5 col-lg-5">
+        <span class="form-control searchContainer">
+            <strong class="searchLabel">Find</strong>
+            <input id="find" type="search" name="find" value="Community Centers (Park Amenities)" autocomplete="off" placeholder="parks, libraries" action-target="/lac/Suggest/What" class="pseudo-input searchBox" />
+        </span>
+    </div>
+
+    <div class="form-group col-sm-5 col-lg-5">
+        <span class="form-control searchContainer">
+            <strong class="searchLabel">Near</strong>
+            <input id="near" name="near" type="search" placeholder="address, city or zip" autocomplete="off" action-target="/lac/Suggest/Where" class="pseudo-input searchBox" value="La Puente" />
+        </span>
+    </div>
+    <div class="form-group  col-sm-2 col-lg-2">
+        <button type="submit" class="btn btn-primary" style="width:100%;" id="submit" role="button"><span class="glyphicon glyphicon-search"></span><span class="hidden-sm hidden-md hidden-lg">&nbsp;&nbsp;Search</span></button>
+    </div>
+    <input data-val="true" data-val-number="The field cat must be a number." id="cat" name="cat" type="hidden" value="" />
+    <input data-val="true" data-val-number="The field tag must be a number." id="tag" name="tag" type="hidden" value="43909" />
+    <input data-val="true" data-val-number="The field loc must be a number." id="loc" name="loc" type="hidden" value="" />
+    <input id="lat" name="lat" type="hidden" value="34.032219852" />
+    <input id="lon" name="lon" type="hidden" value="-117.953348319" />
+</form>
+
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	<a name="top"></a>
+
+	<div class="pageHeader">
+	<div class="container body-content">
+		<h2 class="pageTitle">
+			Search Results
+
+				<small>
+					<span class="glyphicon glyphicon-menu-right"></span> Community Centers
+				</small>
+				<small>
+					<span class="glyphicon glyphicon-menu-right"></span> La Puente
+				</small>
+	</h2>
+	</div>
+</div>
+
+
+	<div class="mainContent">
+		
+
+
+<div class="container">
+
+    <div class="row" style="">
+        <div class="col-md-8 col-lg-7">
+
+
+
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3035762/la-puente-park">1. La Puente Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">0.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3035762/la-puente-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0283443,-117.9531196" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179855/allen-j-martin-park">2. Allen J. Martin Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">0.7 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        14830 E. Giordano St.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91744</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179855/allen-j-martin-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=14830 E. Giordano St. La Puente CA 91744" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179811/rimgrove-park">3. Rimgrove Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">1.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        747 N. Rimgrove Dr.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91744</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179811/rimgrove-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=747 N. Rimgrove Dr. La Puente CA 91744" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179937/hacienda-heights-community-and-rec-center">4. Hacienda Heights Community and Rec Center</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">1.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        1234 Valencia Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Hacienda Heights, CA 91745</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179937/hacienda-heights-community-and-rec-center" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=1234 Valencia Ave. Hacienda Heights CA 91745" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179825/william-steinmetz-park">5. William Steinmetz Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.1 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        1545 S. Stimson Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Hacienda Heights, CA 91745</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179825/william-steinmetz-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=1545 S. Stimson Ave. Hacienda Heights CA 91745" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179853/bassett-park">6. Bassett Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        510 N. Vineland Ave. 
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91746</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179853/bassett-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=510 N. Vineland Ave.  La Puente CA 91746" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179814/manzanita-park">7. Manzanita Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        1747 S. Kwis Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Hacienda Heights, CA 91745</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179814/manzanita-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=1747 S. Kwis Ave. Hacienda Heights CA 91745" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069975/cameron-park">8. Cameron Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069975/cameron-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0619544,-117.9175629" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179923/san-angelo-park">9. San Angelo Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.1 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        245 S. San Angelo Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91746</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179923/san-angelo-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=245 S. San Angelo Ave. La Puente CA 91746" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3038217/shadow-oak-park">10. Shadow Oak Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.2 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3038217/shadow-oak-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0191782,-117.8995066" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179826/sunshine-park">11. Sunshine Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.4 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        515 S. Deepmead Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91744</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179826/sunshine-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=515 S. Deepmead Ave. La Puente CA 91744" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185848/hilda-l-solis-park">12. Hilda L. Solis Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.6 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        15010 Badillo Street
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Baldwin Park, CA 91706</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185848/hilda-l-solis-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=15010 Badillo Street Baldwin Park CA 91706" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3177059/barnes-park">13. Barnes Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.7 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3177059/barnes-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.06975142,-117.99960136" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3053903/morgan-park">14. Morgan Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.8 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3053903/morgan-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0869533,-117.9636757" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069913/palm-view-park">15. Palm View Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069913/palm-view-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.081676,-117.9181185" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185246/mountain-view-park-city-of-el-monte">16. Mountain View Park (City of El Monte)</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        12127 Elliott Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">El Monte, CA 91732</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185246/mountain-view-park-city-of-el-monte" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=12127 Elliott Ave El Monte CA 91732" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185905/zamora-park">17. Zamora Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        3820 Penn Mar Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">El Monte, CA 91732</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185905/zamora-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=3820 Penn Mar Ave El Monte CA 91732" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179928/carolyn-rosas-park">18. Carolyn Rosas Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.7 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        18500 E. Farjardo St.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Rowland Heights, CA 91748</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179928/carolyn-rosas-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=18500 E. Farjardo St. Rowland Heights CA 91748" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3186004/cougar-park">19. Cougar Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        159 W Puente St
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Covina, CA 91723</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3186004/cougar-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=159 W Puente St Covina CA 91723" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069976/covina-park">20. Covina Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.1 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069976/covina-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0880648,-117.8953399" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            <div class="row" style="margin-top:15px; margin-bottom:15px;">
+                <div class="col-sm-3">
+                </div>
+                <div class="col-sm-3 col-sm-offset-6">
+                        <a href="/lac/Search?find=Community+Centers+(Park+Amenities)&amp;near=La+Puente&amp;cat=&amp;tag=43909&amp;loc=&amp;lat=34.032219852&amp;lon=-117.953348319&amp;page=2&amp;pageSize=20" class="btn btn-default btn-block">More Results</a>
+                </div>
+            </div>
+        </div><!-- list ends -->
+        <div class="col-md-4 col-lg-5">
+            <div id="map" style="width: 100%; height: 390px; position: relative; overflow: hidden; -webkit-transform: translateZ(0px); background-color: rgb(229, 227, 223);">
+            </div>
+        </div>
+    </div><!-- row ends here -->
+</div>
+
+<div id="fullscreen">
+    <div style="height:45px; width:100%; text-align:center; overflow:hidden;" class="banner">
+        <span class="pull-left" style="position: relative; top: 5px; left: 5px;">
+            <button type="submit" class="btn btn-primary" title="back" onclick="hideFullscreen();">
+                <span class="glyphicon glyphicon-remove iconPadding"></span> <strong>Back</strong>
+            </button>
+        </span>
+    </div>
+</div>
+
+
+
+
+	</div>
+	
+
+
+<footer>
+    <div id="footer" class="footer">
+        <div class="container ">
+            <div class="col-md-2 col-sm-2" style="text-align:center;">
+                <p>&nbsp;</p>
+                <div class="footer_logo hidden-xs visible-sm visible-md visible-lg" style="padding-top:6px;">
+                    <a href="http://lacounty.gov" target="_blank"><img src="/Images/lacounty_logo.png" alt="LA County Seal"></a>
+                    <br />
+                    <p class="footrTitle" style="font-size:11px; font-weight: bold; color: #999; padding-top: 9px;">Enriching Lives ...</p>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-3" style="padding-left:10px;">
+                <p>&nbsp;</p> <div class="footrTitle">DO YOU NEED HELP?</div>
+                <ul>
+                    <li><a href="https://www.211la.org/">211 LA County</a></li>
+                    <li><a href="http://lacountyhelps.org/">LA County Helps</a></li>
+                    <li><a href="http://www.lacounty.gov/publicalerts/">Public Alerts</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-4" style="padding-left:5px;">
+                <p>&nbsp;</p> <div class="footrTitle">ABOUT US</div>
+                <ul>
+                    <li><a href="/lac/ContactUs">Tell Us What You Think</a></li>
+                    <li><a href="http://lacounty.gov">Back to LA County Portal</a></li>
+                    <li><a href="#">Site Map</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-3" style="padding-left:5px;">
+                <p>&nbsp;</p> <div class="footrTitle">  SITE INFORMATION</div>
+                <ul>
+                    <li><a href="/lac/Language">Language</a></li>
+                    <li><a href="http://www.lacounty.gov/accessibility" target="_blank">Accessibility</a></li>
+                    <li><a href="http://www.lacounty.gov/disclaimer" target="_blank">Disclaimer</a></li>
+                    <li><a href="http://www.lacounty.gov/privacy-policy" target="_blank">Privacy & Security</a></li>
+                    <li><a href="http://www.lacounty.gov/user-rights" target="_blank">Terms of Use</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-12 pull-right"> &nbsp; </div>
+        </div>
+
+        <div id="footFooter">
+            <div class="container">
+                <span class="col-md-6 pull-left" style="padding-left:15px; padding-top:10px;">
+                    <a href="http://www.lacounty.gov/" target="_blank">© 2026 County of Los Angeles</a>
+                </span>
+                <span class="col-md-6 pull-right" style="text-align:right; font-size: 18px; ">
+                    <!-- sample post https://plus.google.com/+Startbootstrap/posts -->
+                    <!--
+                        <ul class="list-inline" style="padding-left:20px; padding-top:6px;">
+                            <li>
+                                <a href="#" class="btn-social"><i class="glyphicon glyphicon-envelope"></i></a>
+                            </li>
+                            <li>
+                               <a href="#" class="btn-social"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                             <a href="#" class="btn-social"><i class="fa fa-fw fa-pinterest"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-flickr"></i></a>
+                            </li>
+                        </ul>	-->
+                </span>
+            </div>
+        </div>
+
+    </div>
+
+
+</footer>   <!-- /footer -->
+
+	<script src="/bundles/jquery?v=uSHcmEwrlV9gEQTHE4WYLwY_MIOZTLjDLkANQlpVbvo1"></script>
+
+	<script src="/bundles/bootstrap?v=Gb_uA1jIJSnGrxRGo3D24hFfp4luSnWWCWU3jS8axiw1"></script>
+
+
+	
+    <script src="/bundles/maps?v=1Uy5lN5n1vbsWC5GDi9oCbxY8bFA6Y0N4xlyRQFfLv01"></script>
+
+
+    <script type="text/javascript">
+		L.Icon.Default.imagePath = '/Scripts/maps/images';
+		initResultsMap(1, {"type":"FeatureCollection","features":[{"type":"Feature","id":"3035762","geometry":{"type":"Point","coordinates":[-117.9531196,34.0283443]},"properties":{"Name":"La Puente Park","url":"/lac/Location/3035762/la-puente-park"}},{"type":"Feature","id":"3179855","geometry":{"type":"Point","coordinates":[-117.96223154,34.03967393]},"properties":{"Name":"Allen J. Martin Park","url":"/lac/Location/3179855/allen-j-martin-park"}},{"type":"Feature","id":"3179811","geometry":{"type":"Point","coordinates":[-117.9206022,34.0312993]},"properties":{"Name":"Rimgrove Park","url":"/lac/Location/3179811/rimgrove-park"}},{"type":"Feature","id":"3179937","geometry":{"type":"Point","coordinates":[-117.97824933,34.01302689]},"properties":{"Name":"Hacienda Heights Community and Rec Center","url":"/lac/Location/3179937/hacienda-heights-community-and-rec-center"}},{"type":"Feature","id":"3179825","geometry":{"type":"Point","coordinates":[-117.96126244,34.00284111]},"properties":{"Name":"William Steinmetz Park","url":"/lac/Location/3179825/william-steinmetz-park"}},{"type":"Feature","id":"3179853","geometry":{"type":"Point","coordinates":[-117.98682284,34.05153881]},"properties":{"Name":"Bassett Park","url":"/lac/Location/3179853/bassett-park"}},{"type":"Feature","id":"3179814","geometry":{"type":"Point","coordinates":[-117.97428762,34.00305608]},"properties":{"Name":"Manzanita Park","url":"/lac/Location/3179814/manzanita-park"}},{"type":"Feature","id":"3069975","geometry":{"type":"Point","coordinates":[-117.9175629,34.0619544]},"properties":{"Name":"Cameron Park","url":"/lac/Location/3069975/cameron-park"}},{"type":"Feature","id":"3179923","geometry":{"type":"Point","coordinates":[-118.00245599,34.05025481]},"properties":{"Name":"San Angelo Park","url":"/lac/Location/3179923/san-angelo-park"}},{"type":"Feature","id":"3038217","geometry":{"type":"Point","coordinates":[-117.8995066,34.0191782]},"properties":{"Name":"Shadow Oak Park","url":"/lac/Location/3038217/shadow-oak-park"}},{"type":"Feature","id":"3179826","geometry":{"type":"Point","coordinates":[-117.90128919,34.00931821]},"properties":{"Name":"Sunshine Park","url":"/lac/Location/3179826/sunshine-park"}},{"type":"Feature","id":"3185848","geometry":{"type":"Point","coordinates":[-117.95283696,34.08502089]},"properties":{"Name":"Hilda L. Solis Park","url":"/lac/Location/3185848/hilda-l-solis-park"}},{"type":"Feature","id":"3177059","geometry":{"type":"Point","coordinates":[-117.99960136,34.06975142]},"properties":{"Name":"Barnes Park","url":"/lac/Location/3177059/barnes-park"}},{"type":"Feature","id":"3053903","geometry":{"type":"Point","coordinates":[-117.9636757,34.0869533]},"properties":{"Name":"Morgan Park","url":"/lac/Location/3053903/morgan-park"}},{"type":"Feature","id":"3069913","geometry":{"type":"Point","coordinates":[-117.9181185,34.081676]},"properties":{"Name":"Palm View Park","url":"/lac/Location/3069913/palm-view-park"}},{"type":"Feature","id":"3185246","geometry":{"type":"Point","coordinates":[-118.02197204,34.0560218]},"properties":{"Name":"Mountain View Park (City of El Monte)","url":"/lac/Location/3185246/mountain-view-park-city-of-el-monte"}},{"type":"Feature","id":"3185905","geometry":{"type":"Point","coordinates":[-118.01111694,34.07182359]},"properties":{"Name":"Zamora Park","url":"/lac/Location/3185905/zamora-park"}},{"type":"Feature","id":"3179928","geometry":{"type":"Point","coordinates":[-117.90233816,33.97920709]},"properties":{"Name":"Carolyn Rosas Park","url":"/lac/Location/3179928/carolyn-rosas-park"}},{"type":"Feature","id":"3186004","geometry":{"type":"Point","coordinates":[-117.89179195,34.08102577]},"properties":{"Name":"Cougar Park","url":"/lac/Location/3186004/cougar-park"}},{"type":"Feature","id":"3069976","geometry":{"type":"Point","coordinates":[-117.8953399,34.0880648]},"properties":{"Name":"Covina Park","url":"/lac/Location/3069976/covina-park"}}]}, 'blue');
+    </script>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+
+			initAutocomplete('/lac/api/What', '/lac/api/Where');
+		});
+	</script>
+
+
+	<div class="backstretch"><div class="backstretchImage"></div></div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=482864810" async></script></body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><script src="/d-Dunsmely-The-fresse-And-of-tis-it-inder-Was-I-" async></script>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Search Results</title>
+	<link href="/styles/css?v=1RShtssm_5BaHqpH3qgkwmXUNUN2KOTYso6AqodtqMk1" rel="stylesheet"/>
+
+	<link rel="stylesheet" type="text/css" href="/Content/custom/lac.css?123" />
+	<link rel="icon" href="/Images/lacounty_logo.png">
+	
+    <link href="/styles/maps?v=ze06w40Yupi-qdDYTTOpFs_K2PjoaPQtKftnPg0HTS01" rel="stylesheet"/>
+
+
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-77643364-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+</head>
+
+<body>
+	<div class="navbar navbar-inverse banner">
+		<div class="container" style="position:relative;">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle btn-nav btn btn-primary" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+
+				<div class="navbar-left">
+					<a href="/">
+						<img src="/Images/lacountyheader_logo.png" class="lacounty_logo img-responsive visible-xs-inline-block visible-sm-block visible-md-inline-block visible-lg-inline-block" alt="">
+						<div class="visible-xs-inline-block visible-sm-block visible-md-inline-block visible-lg-inline-block">
+							<h1 id="headerText" class="visible-xs-block visible-sm-inline-block visible-md-block visible-lg-block">Services Locator</h1>
+							<h2 id="headerSubText" class="visible-xs-block visible-sm-inline-block visible-md-block visible-lg-block">lacounty.gov</h2>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="navbar-collapse navbar-right collapse in" aria-expanded="true">
+
+
+<form id="searchForm" class="form-inline" action="/lac/Search" method="get" onsubmit="if ($('.autocomplete-what').is(':visible') || $('.autocomplete-where').is(':visible')) { return true; }">
+
+    <div class="form-group col-sm-5 col-lg-5">
+        <span class="form-control searchContainer">
+            <strong class="searchLabel">Find</strong>
+            <input id="find" type="search" name="find" value="Community Centers (Park Amenities)" autocomplete="off" placeholder="parks, libraries" action-target="/lac/Suggest/What" class="pseudo-input searchBox" />
+        </span>
+    </div>
+
+    <div class="form-group col-sm-5 col-lg-5">
+        <span class="form-control searchContainer">
+            <strong class="searchLabel">Near</strong>
+            <input id="near" name="near" type="search" placeholder="address, city or zip" autocomplete="off" action-target="/lac/Suggest/Where" class="pseudo-input searchBox" value="Arcadia" />
+        </span>
+    </div>
+    <div class="form-group  col-sm-2 col-lg-2">
+        <button type="submit" class="btn btn-primary" style="width:100%;" id="submit" role="button"><span class="glyphicon glyphicon-search"></span><span class="hidden-sm hidden-md hidden-lg">&nbsp;&nbsp;Search</span></button>
+    </div>
+    <input data-val="true" data-val-number="The field cat must be a number." id="cat" name="cat" type="hidden" value="" />
+    <input data-val="true" data-val-number="The field tag must be a number." id="tag" name="tag" type="hidden" value="43909" />
+    <input data-val="true" data-val-number="The field loc must be a number." id="loc" name="loc" type="hidden" value="" />
+    <input id="lat" name="lat" type="hidden" value="34.133976482" />
+    <input id="lon" name="lon" type="hidden" value="-118.037709872" />
+</form>
+
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	<a name="top"></a>
+
+	<div class="pageHeader">
+	<div class="container body-content">
+		<h2 class="pageTitle">
+			Search Results
+
+				<small>
+					<span class="glyphicon glyphicon-menu-right"></span> Community Centers
+				</small>
+				<small>
+					<span class="glyphicon glyphicon-menu-right"></span> Arcadia
+				</small>
+	</h2>
+	</div>
+</div>
+
+
+	<div class="mainContent">
+		
+
+
+<div class="container">
+
+    <div class="row" style="">
+        <div class="col-md-8 col-lg-7">
+
+
+
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179865/arcadia-community-regional-park">1. Arcadia Community Regional Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">0.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        405 S. Santa Anita Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Arcadia, CA 91007</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179865/arcadia-community-regional-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=405 S. Santa Anita Ave. Arcadia CA 91007" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185613/sierra-vista-park-city-of-sierra-madre">2. Sierra Vista Park (City of Sierra Madre)</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185613/sierra-vista-park-city-of-sierra-madre" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.16314477,-118.04000973" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185620/live-oak-park-city-of-temple-city">3. Live Oak Park (City of Temple City)</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.2 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        10144 Bogue St
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Temple City, CA 91780</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185620/live-oak-park-city-of-temple-city" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=10144 Bogue St Temple City CA 91780" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179885/pamela-county-park">4. Pamela County Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.6 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        2236 Goodall Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Duarte, CA 91010</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179885/pamela-county-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=2236 Goodall Ave. Duarte CA 91010" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3051634/recreation-park">5. Recreation Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">2.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3051634/recreation-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.1458399,-117.9883988" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185824/duarte-park">6. Duarte Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.5 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        1401 Central Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Duarte, CA 91010</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185824/duarte-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=1401 Central Ave Duarte CA 91010" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3175181/city-of-rosemead-parks-and-recreation-department---rosemead-park">7. City Of Rosemead Parks And Recreation Department - Rosemead Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.8 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        4343 Encinita Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Rosemead, CA 91770</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3175181/city-of-rosemead-parks-and-recreation-department---rosemead-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=4343 Encinita Ave. Rosemead CA 91770" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069866/victory-park">8. Victory Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">3.8 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069866/victory-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.160562,-118.0964583" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069977/community-center-park">9. Community Center Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.4 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069977/community-center-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0791763,-118.0764573" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185905/zamora-park">10. Zamora Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.5 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        3820 Penn Mar Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">El Monte, CA 91732</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185905/zamora-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=3820 Penn Mar Ave El Monte CA 91732" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3177059/barnes-park">11. Barnes Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">4.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3177059/barnes-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.06975142,-117.99960136" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185618/royal-oaks-park">12. Royal Oaks Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        2627 Royal Oaks Dr
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Duarte, CA 91010</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185618/royal-oaks-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=2627 Royal Oaks Dr Duarte CA 91010" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3053903/morgan-park">13. Morgan Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3053903/morgan-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0869533,-117.9636757" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185246/mountain-view-park-city-of-el-monte">14. Mountain View Park (City of El Monte)</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.4 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        12127 Elliott Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">El Monte, CA 91732</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185246/mountain-view-park-city-of-el-monte" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=12127 Elliott Ave El Monte CA 91732" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3175179/city-of-rosemead-parks-and-recreation-department---garvey-park">15. City Of Rosemead Parks And Recreation Department - Garvey Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.7 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        7933 E. Emerson Pl.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Rosemead, CA 91770</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3175179/city-of-rosemead-parks-and-recreation-department---garvey-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=7933 E. Emerson Pl. Rosemead CA 91770" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3069949/mary-van-dyke-park">16. Mary Van Dyke Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.8 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3069949/mary-van-dyke-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.0497327,-118.0475673" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185848/hilda-l-solis-park">17. Hilda L. Solis Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">5.9 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        15010 Badillo Street
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">Baldwin Park, CA 91706</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185848/hilda-l-solis-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=15010 Badillo Street Baldwin Park CA 91706" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3185944/south-el-monte-community-center">18. South El Monte Community Center</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">6.1 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        1530 Central Ave
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">South El Monte, CA 91733</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3185944/south-el-monte-community-center" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=1530 Central Ave South El Monte CA 91733" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3179923/san-angelo-park">19. San Angelo Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">6.1 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>County Operated Facility</b>
+                                    </div>
+                                                                    <span>
+                                        245 S. San Angelo Ave.
+                                        <br class="visible-xs" />
+                                        <span style="display: inline;">La Puente, CA 91746</span>
+                                    </span>
+
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3179923/san-angelo-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=245 S. San Angelo Ave. La Puente CA 91746" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="details row">
+                    <div class="col-sm-12">
+                        
+                        <h4 class="shadow"><a href="/lac/Location/3055632/villa-park">20. Villa Park</a></h4>
+
+                        <div class="row">
+                                <div class="col-xs-2 col-sm-2 text-center">6.3 mi</div>
+
+                            <div class="col-xs-6 col-sm-6">
+                                    <div style="margin-bottom:5px;">
+                                        <span class="fa fa-location-arrow"></span>
+                                        <b>City Operated Facility</b>
+                                    </div>
+                                
+                            </div>
+
+                            <div class="col-xs-4 col-sm-4 ">
+                                <a href="/lac/Location/3055632/villa-park" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-map-marker"></span>Details</a>
+
+                                    <a href="https://maps.google.com?daddr=34.1555624,-118.1436822" class="btn text-primary btn-link resultButton "><span class="glyphicon glyphicon-globe"></span>Directions</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            <div class="row" style="margin-top:15px; margin-bottom:15px;">
+                <div class="col-sm-3">
+                </div>
+                <div class="col-sm-3 col-sm-offset-6">
+                        <a href="/lac/Search?find=Community+Centers+(Park+Amenities)&amp;near=Arcadia&amp;cat=&amp;tag=43909&amp;loc=&amp;lat=34.133976482&amp;lon=-118.037709872&amp;page=2&amp;pageSize=20" class="btn btn-default btn-block">More Results</a>
+                </div>
+            </div>
+        </div><!-- list ends -->
+        <div class="col-md-4 col-lg-5">
+            <div id="map" style="width: 100%; height: 390px; position: relative; overflow: hidden; -webkit-transform: translateZ(0px); background-color: rgb(229, 227, 223);">
+            </div>
+        </div>
+    </div><!-- row ends here -->
+</div>
+
+<div id="fullscreen">
+    <div style="height:45px; width:100%; text-align:center; overflow:hidden;" class="banner">
+        <span class="pull-left" style="position: relative; top: 5px; left: 5px;">
+            <button type="submit" class="btn btn-primary" title="back" onclick="hideFullscreen();">
+                <span class="glyphicon glyphicon-remove iconPadding"></span> <strong>Back</strong>
+            </button>
+        </span>
+    </div>
+</div>
+
+
+
+
+	</div>
+	
+
+
+<footer>
+    <div id="footer" class="footer">
+        <div class="container ">
+            <div class="col-md-2 col-sm-2" style="text-align:center;">
+                <p>&nbsp;</p>
+                <div class="footer_logo hidden-xs visible-sm visible-md visible-lg" style="padding-top:6px;">
+                    <a href="http://lacounty.gov" target="_blank"><img src="/Images/lacounty_logo.png" alt="LA County Seal"></a>
+                    <br />
+                    <p class="footrTitle" style="font-size:11px; font-weight: bold; color: #999; padding-top: 9px;">Enriching Lives ...</p>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-3" style="padding-left:10px;">
+                <p>&nbsp;</p> <div class="footrTitle">DO YOU NEED HELP?</div>
+                <ul>
+                    <li><a href="https://www.211la.org/">211 LA County</a></li>
+                    <li><a href="http://lacountyhelps.org/">LA County Helps</a></li>
+                    <li><a href="http://www.lacounty.gov/publicalerts/">Public Alerts</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-4" style="padding-left:5px;">
+                <p>&nbsp;</p> <div class="footrTitle">ABOUT US</div>
+                <ul>
+                    <li><a href="/lac/ContactUs">Tell Us What You Think</a></li>
+                    <li><a href="http://lacounty.gov">Back to LA County Portal</a></li>
+                    <li><a href="#">Site Map</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-3" style="padding-left:5px;">
+                <p>&nbsp;</p> <div class="footrTitle">  SITE INFORMATION</div>
+                <ul>
+                    <li><a href="/lac/Language">Language</a></li>
+                    <li><a href="http://www.lacounty.gov/accessibility" target="_blank">Accessibility</a></li>
+                    <li><a href="http://www.lacounty.gov/disclaimer" target="_blank">Disclaimer</a></li>
+                    <li><a href="http://www.lacounty.gov/privacy-policy" target="_blank">Privacy & Security</a></li>
+                    <li><a href="http://www.lacounty.gov/user-rights" target="_blank">Terms of Use</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-12 pull-right"> &nbsp; </div>
+        </div>
+
+        <div id="footFooter">
+            <div class="container">
+                <span class="col-md-6 pull-left" style="padding-left:15px; padding-top:10px;">
+                    <a href="http://www.lacounty.gov/" target="_blank">© 2026 County of Los Angeles</a>
+                </span>
+                <span class="col-md-6 pull-right" style="text-align:right; font-size: 18px; ">
+                    <!-- sample post https://plus.google.com/+Startbootstrap/posts -->
+                    <!--
+                        <ul class="list-inline" style="padding-left:20px; padding-top:6px;">
+                            <li>
+                                <a href="#" class="btn-social"><i class="glyphicon glyphicon-envelope"></i></a>
+                            </li>
+                            <li>
+                               <a href="#" class="btn-social"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                             <a href="#" class="btn-social"><i class="fa fa-fw fa-pinterest"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social"><i class="fa fa-fw fa-flickr"></i></a>
+                            </li>
+                        </ul>	-->
+                </span>
+            </div>
+        </div>
+
+    </div>
+
+
+</footer>   <!-- /footer -->
+
+	<script src="/bundles/jquery?v=uSHcmEwrlV9gEQTHE4WYLwY_MIOZTLjDLkANQlpVbvo1"></script>
+
+	<script src="/bundles/bootstrap?v=Gb_uA1jIJSnGrxRGo3D24hFfp4luSnWWCWU3jS8axiw1"></script>
+
+
+	
+    <script src="/bundles/maps?v=1Uy5lN5n1vbsWC5GDi9oCbxY8bFA6Y0N4xlyRQFfLv01"></script>
+
+
+    <script type="text/javascript">
+		L.Icon.Default.imagePath = '/Scripts/maps/images';
+		initResultsMap(1, {"type":"FeatureCollection","features":[{"type":"Feature","id":"3179865","geometry":{"type":"Point","coordinates":[-118.03429276,34.13779531]},"properties":{"Name":"Arcadia Community Regional Park","url":"/lac/Location/3179865/arcadia-community-regional-park"}},{"type":"Feature","id":"3185613","geometry":{"type":"Point","coordinates":[-118.04000973,34.16314477]},"properties":{"Name":"Sierra Vista Park (City of Sierra Madre)","url":"/lac/Location/3185613/sierra-vista-park-city-of-sierra-madre"}},{"type":"Feature","id":"3185620","geometry":{"type":"Point","coordinates":[-118.04623636,34.10241384]},"properties":{"Name":"Live Oak Park (City of Temple City)","url":"/lac/Location/3185620/live-oak-park-city-of-temple-city"}},{"type":"Feature","id":"3179885","geometry":{"type":"Point","coordinates":[-117.99384948,34.12338283]},"properties":{"Name":"Pamela County Park","url":"/lac/Location/3179885/pamela-county-park"}},{"type":"Feature","id":"3051634","geometry":{"type":"Point","coordinates":[-117.9883988,34.1458399]},"properties":{"Name":"Recreation Park","url":"/lac/Location/3051634/recreation-park"}},{"type":"Feature","id":"3185824","geometry":{"type":"Point","coordinates":[-117.97647333,34.13715969]},"properties":{"Name":"Duarte Park","url":"/lac/Location/3185824/duarte-park"}},{"type":"Feature","id":"3175181","geometry":{"type":"Point","coordinates":[-118.067807,34.084916]},"properties":{"Name":"City Of Rosemead Parks And Recreation Department - Rosemead Park","url":"/lac/Location/3175181/city-of-rosemead-parks-and-recreation-department---rosemead-park"}},{"type":"Feature","id":"3069866","geometry":{"type":"Point","coordinates":[-118.0964583,34.160562]},"properties":{"Name":"Victory Park","url":"/lac/Location/3069866/victory-park"}},{"type":"Feature","id":"3069977","geometry":{"type":"Point","coordinates":[-118.0764573,34.0791763]},"properties":{"Name":"Community Center Park","url":"/lac/Location/3069977/community-center-park"}},{"type":"Feature","id":"3185905","geometry":{"type":"Point","coordinates":[-118.01111694,34.07182359]},"properties":{"Name":"Zamora Park","url":"/lac/Location/3185905/zamora-park"}},{"type":"Feature","id":"3177059","geometry":{"type":"Point","coordinates":[-117.99960136,34.06975142]},"properties":{"Name":"Barnes Park","url":"/lac/Location/3177059/barnes-park"}},{"type":"Feature","id":"3185618","geometry":{"type":"Point","coordinates":[-117.94690408,34.14411051]},"properties":{"Name":"Royal Oaks Park","url":"/lac/Location/3185618/royal-oaks-park"}},{"type":"Feature","id":"3053903","geometry":{"type":"Point","coordinates":[-117.9636757,34.0869533]},"properties":{"Name":"Morgan Park","url":"/lac/Location/3053903/morgan-park"}},{"type":"Feature","id":"3185246","geometry":{"type":"Point","coordinates":[-118.02197204,34.0560218]},"properties":{"Name":"Mountain View Park (City of El Monte)","url":"/lac/Location/3185246/mountain-view-park-city-of-el-monte"}},{"type":"Feature","id":"3175179","geometry":{"type":"Point","coordinates":[-118.096449,34.066391]},"properties":{"Name":"City Of Rosemead Parks And Recreation Department - Garvey Park","url":"/lac/Location/3175179/city-of-rosemead-parks-and-recreation-department---garvey-park"}},{"type":"Feature","id":"3069949","geometry":{"type":"Point","coordinates":[-118.0475673,34.0497327]},"properties":{"Name":"Mary Van Dyke Park","url":"/lac/Location/3069949/mary-van-dyke-park"}},{"type":"Feature","id":"3185848","geometry":{"type":"Point","coordinates":[-117.95283696,34.08502089]},"properties":{"Name":"Hilda L. Solis Park","url":"/lac/Location/3185848/hilda-l-solis-park"}},{"type":"Feature","id":"3185944","geometry":{"type":"Point","coordinates":[-118.04677855,34.04619046]},"properties":{"Name":"South El Monte Community Center","url":"/lac/Location/3185944/south-el-monte-community-center"}},{"type":"Feature","id":"3179923","geometry":{"type":"Point","coordinates":[-118.00245599,34.05025481]},"properties":{"Name":"San Angelo Park","url":"/lac/Location/3179923/san-angelo-park"}},{"type":"Feature","id":"3055632","geometry":{"type":"Point","coordinates":[-118.1436822,34.1555624]},"properties":{"Name":"Villa Park","url":"/lac/Location/3055632/villa-park"}}]}, 'blue');
+    </script>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+
+			initAutocomplete('/lac/api/What', '/lac/api/Where');
+		});
+	</script>
+
+
+	<div class="backstretch"><div class="backstretchImage"></div></div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=205690200" async></script></body>
+</html>
