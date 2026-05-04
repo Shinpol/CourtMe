@@ -3,7 +3,8 @@ import ParseHtml
 import Get
 import pandas as pd 
 from pathlib import Path
-import os
+import time
+import random
 
 ##req = "https://locator.lacounty.gov/lac/Search?" &
 
@@ -45,12 +46,14 @@ example_data = {
 csv_file = Path(r"..\DataSets\LACCourts.csv")
 
 def main():
-    #cities =  Get.get_cities()
-    cities = ["La+Puente"]
+    cities =  Get.get_cities()[58:]
+    #cities = ["La+Canada+Flintridge"] #for testing 
     
+    """
     df = pd.DataFrame(example_data)
     df.to_csv(csv_file, index=False, header=["name","address","address_link", "tennis_courts", "pb_courts", "city"])
-    
+    """
+
     for city in cities:
         #community_centers["near"] = city
         #parks_pb["near"] = city 
@@ -64,6 +67,9 @@ def main():
         #parks_pb_html = ParseHtml.parse(parks_pb_res.text)
         #parks_pb_html["type"] = ["pickleball"] * 20
 
+
+        time.sleep(random.randint(0, 15))
+
         parks_tennis["near"] = city 
         parks_tennis_res = ParksCall.call_request(parks_tennis)
         parks_tennis_html = ParseHtml.parse(parks_tennis_res.text)
@@ -76,6 +82,7 @@ def main():
                 
         df = pd.DataFrame(parks_tennis_html)
         df.to_csv(csv_file, mode='a', index=False, header=False)
+        print("Finished: " + city)
         
 
 main()

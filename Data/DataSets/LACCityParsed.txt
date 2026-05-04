@@ -36,7 +36,7 @@ Huntington+Park
 Industry
 Inglewood
 Irwindale
-La+Cañada+Flintridge
+La+Canada+Flintridge
 La+Habra+Heights
 La+Mirada
 La+Puente
@@ -56,14 +56,14 @@ Montebello
 Monterey+Park
 Norwalk
 Palmdale
-Palos+Verdes
+Rancho+Palos+Verdes
+Palos+Verdes+Estates
 Paramount
 Pasadena
 Pico+Rivera
 Pomona
 Rancho+Palos
-Redond+Beach
-Rolling+Hills
+Redondo+Beach
 Rolling+Hills
 Rosemead
 San+Dimas
